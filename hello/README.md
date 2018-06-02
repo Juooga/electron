@@ -11,7 +11,7 @@ May 30, 2018
 
 -->
 
-#### Simple implementation of [Hello World](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) in Juooga.
+### Simple implementation of [Hello World](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) in Juooga.
 
 #### Emojis 😜
 
@@ -45,7 +45,7 @@ hello world
 Example:
 
 ```
-imprime "Hola Mundo"
+imprimir "Hola Mundo"
 ```
 
 Output:
