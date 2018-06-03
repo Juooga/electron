@@ -1,5 +1,32 @@
-print "hello world"
+// Using Emojis
+🖨 "🖐🏻 🌎"
 
+//English 🇺🇸
+print "Hello World"
+
+//Spanish 🇪🇸
 imprimir "Hola Mundo"
 
-🖨 "🖐🏻 🌎"
+//French 🇫🇷
+impression "Bonjour le monde"
+
+//Portuguese 🇵🇹
+impressão "Olá Mundo"
+
+//Italian 🇮🇹
+stampare "Ciao mondo"
+
+//German 🇩🇪
+drucken "Hallo Welt"
+
+//Russian 🇷🇺
+напечатать "Привет мир"
+
+//Hindi 🇮🇳
+भारतीय "नमस्ते दुनिया"
+
+//Japanese 🇯🇵
+印刷する "こんにちは世界"
+
+//Chinense 🇨🇳
+打印 "你好，世界"
